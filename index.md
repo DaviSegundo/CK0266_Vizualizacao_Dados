@@ -13,4 +13,19 @@
 
 ---
 
+## Aula do dia 17/11/2021
+
+#### Exercícios Vega Lite API
+
+##### Resposta Exercício 1
+<iframe width="100%" height="323" frameborder="0"
+  src="https://observablehq.com/embed/@davisegundo/vega-lite-api-exe?cells=bar"></iframe>
+
+
+##### Resposta Exercício 2
+<iframe width="100%" height="371" frameborder="0"
+  src="https://observablehq.com/embed/@davisegundo/vega-lite-api-exe?cells=scatter"></iframe>
+
+---
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
